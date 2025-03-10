@@ -8,7 +8,7 @@
         - 
 [Вот например мой личный сайт](https://aleksey8205.github.io/Misbroiler/ "Сайт на доработке")
 
-![Фото](https://github.com/Aleksey8205/Git-ME/blob/main/me.jpg)
+![Фото](https://raw.githubusercontent.com/Aleksey8205/Git-ME/refs/heads/main/me.jpg)
 
 |***Столбец 1***|__Столбец 2__|__Столбец 3__|
 |-|--------|---|
